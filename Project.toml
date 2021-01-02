@@ -1,0 +1,7 @@
+name = "Observables"
+uuid = "1c3af6da-31bd-4702-84e3-408b707356e0"
+authors = ["Sebastian Rollen <rollenseb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
